@@ -37,7 +37,7 @@ Genre Popularity: The top genres indicate diverse content availability on Netfli
 Trend Analysis Over Time
 Objective: Analyze how Netflix's content catalog (including genres, content types, and production trends) has evolved over the years.
 
-![image](https://github.com/harsha8797/Netflix_Data_Analysis_Project/assets/159712345/ae96afec-b7aa-40fd-9cb6-8d610944700f)
+![image](https://github.com/harsha8797/Netflix_Data_Analysis_Project/assets/159712345/d9cc455d-cab2-4833-b587-19a79e63f7e2)
 
 
 Yearly Content Addition
