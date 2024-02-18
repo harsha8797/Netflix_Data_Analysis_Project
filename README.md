@@ -32,12 +32,13 @@ Content Type Distribution: The dataset shows a distribution between Movies and T
 
 Genre Popularity: The top genres indicate diverse content availability on Netflix, catering to different viewer preferences. The most popular genres include International TV Shows, Dramas, and Comedies, highlighting a focus on diverse and global content.
 
-![image](https://github.com/harsha8797/Netflix_Data_Analysis_Portfolio/assets/159712345/b7ce74e4-79f5-41a4-a777-9c7d1545524a)
+![image](https://github.com/harsha8797/Netflix_Data_Analysis_Project/assets/159712345/38f757b8-37cd-43cd-bf8e-53dc9af3bf98)
 
 Trend Analysis Over Time
 Objective: Analyze how Netflix's content catalog (including genres, content types, and production trends) has evolved over the years.
 
-![image](https://github.com/harsha8797/Netflix_Data_Analysis_Portfolio/assets/159712345/b8de91fb-eda9-4786-b08f-1b1feaa586e7)
+![image](https://github.com/harsha8797/Netflix_Data_Analysis_Project/assets/159712345/ae96afec-b7aa-40fd-9cb6-8d610944700f)
+
 
 Yearly Content Addition
 The bar chart shows the number of movies and TV shows added to Netflix each year, illustrating a clear trend of increasing content addition over time. Notably, there's a visible shift towards adding more content each year, with movies consistently being a significant part of the additions. The presence of both content types each year reaffirms Netflix's strategy to maintain a diverse catalog.
@@ -50,7 +51,8 @@ Genre Popularity Shifts: Changes in genre popularity over time might reflect bro
 
 Content Strategy Insights
 
-![image](https://github.com/harsha8797/Netflix_Data_Analysis_Portfolio/assets/159712345/c6af7775-802f-4e27-91a3-a550b9f3739b)
+![image](https://github.com/harsha8797/Netflix_Data_Analysis_Project/assets/159712345/5c31408e-df0b-4049-b23c-32fbffe28edc)
+
 
 The area chart visualizes the Rating Distribution Over Time, showcasing how the distribution of content ratings has evolved on Netflix. This visualization highlights several key insights regarding Netflix's content strategy in terms of catering to different audience demographics:
 
@@ -60,7 +62,7 @@ Growth in Content Volume: Consistent with previous observations, there's an over
 
 Genre & rating Correlation:
 
-![image](https://github.com/harsha8797/Netflix_Data_Analysis_Portfolio/assets/159712345/4e6675d4-81d3-46ff-901f-68645cd90fbb)
+![image](https://github.com/harsha8797/Netflix_Data_Analysis_Project/assets/159712345/7c93a7dd-ccb3-4f49-83cf-17b2becfb89b)
 
 The heatmap visualizes the correlation between primary genres and content ratings, offering insights into Netflix's content strategy with regard to targeting specific audience demographics:
 
@@ -72,7 +74,7 @@ Genre Popularity and Ratings: Certain genres may predominantly fall under specif
 
 Content Acquistion Trends:
 
-![image](https://github.com/harsha8797/Netflix_Data_Analysis_Portfolio/assets/159712345/a1c71069-7263-49bc-826a-e2709cd0ba6a)
+![image](https://github.com/harsha8797/Netflix_Data_Analysis_Project/assets/159712345/93a51f7e-f93d-4562-bf1d-42da35b89377)
 
 The plot illustrates the content acquisition trends over time, focusing on the gap between the release year of the content and the year it was added to Netflix. This analysis provides valuable insights into Netflix's strategic content acquisition practices:
 
